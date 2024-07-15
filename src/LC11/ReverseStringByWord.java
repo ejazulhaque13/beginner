@@ -30,9 +30,9 @@ public class ReverseStringByWord {
 		
 		return reversedString;
 	}
-	
+	/*
 	public static String reverseEveryWord(String string) {
 		
 		
-	}
+	} */
 }
